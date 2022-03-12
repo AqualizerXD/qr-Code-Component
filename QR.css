@@ -1,0 +1,40 @@
+* {
+    font-size: 15px;
+    font-weight: 400 ,700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ /* Sets font size/weight of every element on the page */
+
+body  { 
+    background-color: hsl(212, 45%, 89%)
+}
+
+div { 
+    background-color: white; /*background of the div to white*/
+    text-align: center; 
+    border-radius: 10px;  /* makes the edges of the box not sharp :D */
+    width: 320px; 
+    height: 450px;
+    padding: 15px;
+    position: relative; 
+    margin-top: 5%;
+    margin-left: 37%;
+    
+    
+}
+
+p {
+     color:hsl(220, 15%, 55%)
+}
+
+h1 { 
+    color: hsl(218, 44%, 22%);
+    font-size: 20px;
+}
+
+img { 
+    position: relative;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;     /* picture edges less sharp */
+}
